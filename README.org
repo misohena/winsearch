@@ -1,1 +1,8 @@
 * Windows Search Command
+
+** Usage
+=Usage: winsearch keyword...=
+
+** Related Project
+
+[[https://github.com/misohena/adoquery][misohena/adoquery: Windows ADO Query Command]]
